@@ -1,4 +1,4 @@
-package com.app.caculator.factories;
+package com.app.calculator.factories;
 
 import com.app.calculator.classes.Addition;
 import com.app.calculator.classes.Division;

@@ -1,6 +1,6 @@
 package com.app.calculator.app;
 
-import com.app.caculator.factories.OperationFactory;
+import com.app.calculator.factories.OperationFactory;
 import com.app.calculator.classes.Operation;
 
 public class Program {
