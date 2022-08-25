@@ -1,4 +1,5 @@
 <h1 align="center">Calculadora</h1>
+<p align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /></p>
 
 <h3>Sobre</h3>
 <p>Calculadora criada em Java para estudo de orientação a objetos</p>
